@@ -1,0 +1,21 @@
+{
+    "name": "zszu/test",
+    "description": "zszu",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zszu",
+            "email": "2143018962@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "zszu\\test\\" : "src"
+        }
+    }
+}
