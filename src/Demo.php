@@ -1,10 +1,12 @@
 <?php
+
 namespace zszu\test;
 
 class Demo
 {
-    public function hello(){
-        echo "hello world";
+    public function hello()
+    {
+        return "hello world";
     }
 
 }
