@@ -1,6 +1,6 @@
 <?php
 
-namespace zszu;
+namespace Zsz\Hello;
 
 class Demo
 {

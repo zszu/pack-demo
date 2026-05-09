@@ -6,5 +6,5 @@
  */
 require '../vendor/autoload.php';
 
-$demo = new \zszu\Demo();
+$demo = new \Zsz\Hello\Demo();
 echo $demo->hello();
